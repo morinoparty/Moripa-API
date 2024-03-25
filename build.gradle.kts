@@ -70,7 +70,7 @@ dependencies {
 
     library("com.nimbusds:nimbus-jose-jwt:9.38-rc3")
 
-    library("ch.qos.logback:logback-classic:1.3.14")
+    library("ch.qos.logback:logback-classic:1.5.3")
 
     implementation("io.insert-koin:koin-core:$koinVersion")
 }
